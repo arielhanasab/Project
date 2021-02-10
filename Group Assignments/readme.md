@@ -5,7 +5,7 @@ Which S&P 500 companies have the highest influence on the stock market?
 This project will magnify the true influence an individual S&P 500 company has on the stock market, this can help if determining whether or not a company has too much influence and thus help determine if a company (monopoly) or multiple companies (oligopoly) should be dismantled.
 
 ## Spatial Scope
-The spatial scope is the global market because companies around the globe have influence on the stock market.
+The spatial scope is the national market (USA) because the S&P 500 is limited to US Companies.
 
 ## Data Sources
 [S&P 500 Companies with Financial Information](https://datahub.io/core/s-and-p-500-companies-financials)
